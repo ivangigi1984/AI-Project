@@ -1,4 +1,4 @@
-# Introduction to Using Cohere
+# Introduction to Using Cohere API to Create a Simple Chatbot
 
 Welcome to this beginner-friendly tutorial on using Cohere! In certain regions, such as Hong Kong, developers may face restrictions when accessing platforms like OpenAI. Cohere provides a powerful alternative for generating text and building chatbots.
 
